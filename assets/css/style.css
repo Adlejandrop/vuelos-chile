@@ -1,0 +1,58 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+
+.sectionTitle {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+hr {
+    border-color: darkcyan
+}
+
+.bg-cyan {
+    background-color: rgb(62, 162, 184);
+}
+.navbar {
+    z-index: 100;
+    }
+
+.nav-link{
+    fill: white;
+color: white;
+}
+
+#heroSection {
+   margin-top: -57px;
+   z-index: -100
+}
+
+.fas {
+font-size: 30px;
+;}
+
+.cardImg {
+    height:200px;
+    background-size: cover;
+} 
+
+#cardImg1{
+    background-image: url(../img/card1.jpg);
+}
+#cardImg2{
+    background-image: url(../img/card2.jpg);
+}
+#cardImg3{
+    background-image: url(../img/card3.jpg);
+}
+#cardImg4{
+    background-image: url(../img/card4.jpg);
+}
+
+footer {
+    height: 100px;
+}
